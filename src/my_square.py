@@ -1,6 +1,6 @@
-def my_square(x)
+def my_square(y)
 	""" comment added
-	return (x ** 2)
+	return (y ** 2)
 
-return (my_square(4444))
+return (my_square(45))
 
