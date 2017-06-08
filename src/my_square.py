@@ -4,3 +4,4 @@ def my_square(y)
 
 return (my_square(45))
 
+def my_square2()
